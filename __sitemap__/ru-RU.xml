@@ -84,7 +84,7 @@
     </url>
     <url>
         <loc>http://localhost/humowings-demo/ru/about</loc>
-        <lastmod>2026-03-25T16:04:13Z</lastmod>
+        <lastmod>2026-03-26T06:06:46Z</lastmod>
         <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/about" />
         <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/about" />
         <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/about" />
@@ -92,7 +92,7 @@
     </url>
     <url>
         <loc>http://localhost/humowings-demo/ru/contacts</loc>
-        <lastmod>2026-03-25T16:05:46Z</lastmod>
+        <lastmod>2026-03-26T06:04:55Z</lastmod>
         <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/contacts" />
         <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/contacts" />
         <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/contacts" />
@@ -131,18 +131,7 @@
         <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/good-hotel" hreflang="ru-RU" />
     </url>
     <url>
-        <loc>http://localhost/humowings-demo/en/tours/woo-hotel</loc>
-        <image:image>
-            <image:loc>http://localhost:1337/uploads/image_3_27a62b1648.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://localhost:1337/uploads/image_2_6e69ebeb9b.png</image:loc>
-        </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/woo-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/woo-hotel" hreflang="ru-RU" />
-    </url>
-    <url>
-        <loc>http://localhost/humowings-demo/en/tours/zalupa-hotel</loc>
+        <loc>http://localhost/humowings-demo/en/tours/humo-hotel</loc>
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_3_27a62b1648.png</image:loc>
         </image:image>
@@ -152,8 +141,19 @@
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_1_66c19302dd.png</image:loc>
         </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/zalupa-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/zalupa-hotel" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/humo-hotel" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/humo-hotel" hreflang="ru-RU" />
+    </url>
+    <url>
+        <loc>http://localhost/humowings-demo/en/tours/woo-hotel</loc>
+        <image:image>
+            <image:loc>http://localhost:1337/uploads/image_3_27a62b1648.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://localhost:1337/uploads/image_2_6e69ebeb9b.png</image:loc>
+        </image:image>
+        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/woo-hotel" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/woo-hotel" hreflang="ru-RU" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/ru/tours/good-hotel</loc>
@@ -170,18 +170,7 @@
         <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/good-hotel" hreflang="ru-RU" />
     </url>
     <url>
-        <loc>http://localhost/humowings-demo/ru/tours/woo-hotel</loc>
-        <image:image>
-            <image:loc>http://localhost:1337/uploads/image_3_27a62b1648.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://localhost:1337/uploads/image_2_6e69ebeb9b.png</image:loc>
-        </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/woo-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/woo-hotel" hreflang="ru-RU" />
-    </url>
-    <url>
-        <loc>http://localhost/humowings-demo/ru/tours/zalupa-hotel</loc>
+        <loc>http://localhost/humowings-demo/ru/tours/humo-hotel</loc>
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_3_27a62b1648.png</image:loc>
         </image:image>
@@ -191,8 +180,19 @@
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_1_66c19302dd.png</image:loc>
         </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/zalupa-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/zalupa-hotel" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/humo-hotel" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/humo-hotel" hreflang="ru-RU" />
+    </url>
+    <url>
+        <loc>http://localhost/humowings-demo/ru/tours/woo-hotel</loc>
+        <image:image>
+            <image:loc>http://localhost:1337/uploads/image_3_27a62b1648.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://localhost:1337/uploads/image_2_6e69ebeb9b.png</image:loc>
+        </image:image>
+        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/woo-hotel" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/woo-hotel" hreflang="ru-RU" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/uz/tours/good-hotel</loc>
@@ -209,6 +209,20 @@
         <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/tours/good-hotel" hreflang="ru-RU" />
     </url>
     <url>
+        <loc>http://localhost/humowings-demo/uz/tours/humo-hotel</loc>
+        <image:image>
+            <image:loc>http://localhost:1337/uploads/image_3_27a62b1648.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://localhost:1337/uploads/image_2_6e69ebeb9b.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://localhost:1337/uploads/image_1_66c19302dd.png</image:loc>
+        </image:image>
+        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/tours/humo-hotel" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/tours/humo-hotel" hreflang="ru-RU" />
+    </url>
+    <url>
         <loc>http://localhost/humowings-demo/uz/tours/woo-hotel</loc>
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_3_27a62b1648.png</image:loc>
@@ -219,19 +233,5 @@
         <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/tours/woo-hotel" hreflang="x-default" />
         <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/tours/woo-hotel" hreflang="ru-RU" />
     </url>
-    <url>
-        <loc>http://localhost/humowings-demo/uz/tours/zalupa-hotel</loc>
-        <image:image>
-            <image:loc>http://localhost:1337/uploads/image_3_27a62b1648.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://localhost:1337/uploads/image_2_6e69ebeb9b.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://localhost:1337/uploads/image_1_66c19302dd.png</image:loc>
-        </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/tours/zalupa-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/tours/zalupa-hotel" hreflang="ru-RU" />
-    </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v6.1.5 at 2026-03-25T20:17:01.259Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v6.1.5 at 2026-03-26T06:16:19.462Z -->
