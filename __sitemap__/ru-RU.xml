@@ -3,10 +3,13 @@
     <url>
         <loc>http://localhost/humowings-demo/en</loc>
         <image:image>
-            <image:loc>http://localhost:1337/uploads/image_2_6e69ebeb9b.png</image:loc>
+            <image:loc>http://localhost:1337/uploads/nhatrang_b17cfd99c5.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>http://localhost:1337/uploads/nhatrang_b17cfd99c5.jpg</image:loc>
+            <image:loc>http://localhost:1337/uploads/edgd7ivamrwvp0_znnqfbgci6hc_88a70992dc.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://localhost:1337/uploads/image_2_6e69ebeb9b.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>http://localhost/images/about/about1.png</image:loc>
@@ -20,21 +23,32 @@
         <image:image>
             <image:loc>http://localhost/images/tours/maldives.png</image:loc>
         </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/ru</loc>
-        <lastmod>2026-03-25T16:06:57Z</lastmod>
+        <lastmod>2026-03-26T06:33:58Z</lastmod>
         <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru" />
         <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en" />
         <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz" />
         <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz" />
         <image:image>
             <image:loc>http://localhost:1337/uploads/nhatrang_b17cfd99c5.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_2_6e69ebeb9b.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://localhost:1337/uploads/edgd7ivamrwvp0_znnqfbgci6hc_88a70992dc.jpeg</image:loc>
         </image:image>
         <image:image>
             <image:loc>http://localhost/images/about/about1.png</image:loc>
@@ -58,6 +72,9 @@
             <image:loc>http://localhost:1337/uploads/image_2_6e69ebeb9b.png</image:loc>
         </image:image>
         <image:image>
+            <image:loc>http://localhost:1337/uploads/edgd7ivamrwvp0_znnqfbgci6hc_88a70992dc.jpeg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>http://localhost/images/about/about1.png</image:loc>
         </image:image>
         <image:image>
@@ -69,52 +86,106 @@
         <image:image>
             <image:loc>http://localhost/images/tours/maldives.png</image:loc>
         </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/en/about</loc>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/about" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/about" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/about" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/about" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/about" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/about" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/about" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/about" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/about" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/en/contacts</loc>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/contacts" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/contacts" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/contacts" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/contacts" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/contacts" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/contacts" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/contacts" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/contacts" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/contacts" />
+    </url>
+    <url>
+        <loc>http://localhost/humowings-demo/en/tours</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/tours" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/tours" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/tours" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/tours" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/tours" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/tours" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/tours" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/ru/about</loc>
-        <lastmod>2026-03-26T06:06:46Z</lastmod>
+        <lastmod>2026-03-26T06:34:07Z</lastmod>
         <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/about" />
         <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/about" />
         <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/about" />
         <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/about" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/about" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/about" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/about" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/ru/contacts</loc>
-        <lastmod>2026-03-26T06:04:55Z</lastmod>
+        <lastmod>2026-03-26T06:34:14Z</lastmod>
         <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/contacts" />
         <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/contacts" />
         <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/contacts" />
         <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/contacts" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/contacts" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/contacts" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/contacts" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/ru/tours</loc>
-        <lastmod>2026-03-25T13:34:23Z</lastmod>
+        <lastmod>2026-03-26T06:34:01Z</lastmod>
         <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/tours" />
         <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/tours" />
         <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/tours" />
         <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/tours" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/tours" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/tours" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/tours" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/uz/about</loc>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/about" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/about" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/about" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/about" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/about" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/about" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/about" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/about" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/about" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/uz/contacts</loc>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/contacts" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/contacts" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/contacts" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/contacts" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/contacts" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/contacts" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/contacts" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/contacts" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/contacts" />
+    </url>
+    <url>
+        <loc>http://localhost/humowings-demo/uz/tours</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/tours" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/tours" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/tours" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/tours" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/tours" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/tours" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/tours" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/en/tours/good-hotel</loc>
@@ -127,8 +198,13 @@
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_1_66c19302dd.png</image:loc>
         </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/good-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/good-hotel" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/tours/good-hotel" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/en/tours/humo-hotel</loc>
@@ -141,8 +217,13 @@
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_1_66c19302dd.png</image:loc>
         </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/humo-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/humo-hotel" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/tours/humo-hotel" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/en/tours/woo-hotel</loc>
@@ -152,8 +233,13 @@
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_2_6e69ebeb9b.png</image:loc>
         </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/woo-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/en/tours/woo-hotel" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/tours/woo-hotel" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/ru/tours/good-hotel</loc>
@@ -166,8 +252,13 @@
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_1_66c19302dd.png</image:loc>
         </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/good-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/good-hotel" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/tours/good-hotel" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/ru/tours/humo-hotel</loc>
@@ -180,8 +271,13 @@
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_1_66c19302dd.png</image:loc>
         </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/humo-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/humo-hotel" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/tours/humo-hotel" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/ru/tours/woo-hotel</loc>
@@ -191,8 +287,13 @@
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_2_6e69ebeb9b.png</image:loc>
         </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/woo-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/ru/tours/woo-hotel" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/tours/woo-hotel" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/uz/tours/good-hotel</loc>
@@ -205,8 +306,13 @@
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_1_66c19302dd.png</image:loc>
         </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/tours/good-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/tours/good-hotel" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/tours/good-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/tours/good-hotel" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/uz/tours/humo-hotel</loc>
@@ -219,8 +325,13 @@
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_1_66c19302dd.png</image:loc>
         </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/tours/humo-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/tours/humo-hotel" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/tours/humo-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/tours/humo-hotel" />
     </url>
     <url>
         <loc>http://localhost/humowings-demo/uz/tours/woo-hotel</loc>
@@ -230,8 +341,13 @@
         <image:image>
             <image:loc>http://localhost:1337/uploads/image_2_6e69ebeb9b.png</image:loc>
         </image:image>
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/tours/woo-hotel" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="http://localhost/humowings-demo/uz/tours/woo-hotel" hreflang="ru-RU" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost/humowings-demo/ru/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost/humowings-demo/ru/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="http://localhost/humowings-demo/ru/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/humowings-demo/en/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost/humowings-demo/en/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz" href="http://localhost/humowings-demo/uz/tours/woo-hotel" />
+        <xhtml:link rel="alternate" hreflang="uz-UZ" href="http://localhost/humowings-demo/uz/tours/woo-hotel" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v6.1.5 at 2026-03-26T06:19:38.763Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v6.1.5 at 2026-03-26T06:38:13.014Z -->
